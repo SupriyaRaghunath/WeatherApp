@@ -32,7 +32,3 @@ package-lock.json and Podfile.lock are committed
 .env is gitignored
 
 Built using Flexbox layout
-
-📜 License
-
-MIT
