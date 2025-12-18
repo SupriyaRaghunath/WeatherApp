@@ -36,7 +36,3 @@ Built using Flexbox layout
 📜 License
 
 MIT
-
-If you want it even smaller (one-liner style) or interview-ready, tell me 👍
-
-ChatGPT can make mistakes. Check important info.
